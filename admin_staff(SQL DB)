@@ -1,0 +1,5 @@
+SELECT TOP 1000 [Staff ID]
+      ,[Staff Name]
+      ,[Email]
+      ,[Mobile Number]
+  FROM [UR_Pets].[dbo].[admin_staff]
