@@ -1,0 +1,6 @@
+SELECT TOP 1000 [Username]
+      ,[Mobile Number]
+      ,[Email]
+      ,[Password]
+      ,[Confirm Password]
+  FROM [UR_Pets].[dbo].[userreg]
