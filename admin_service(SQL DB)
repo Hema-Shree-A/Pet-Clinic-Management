@@ -1,0 +1,4 @@
+SELECT TOP 1000 [Service ID]
+      ,[Service Name]
+      ,[Service Price]
+  FROM [UR_Pets].[dbo].[admin_service]
