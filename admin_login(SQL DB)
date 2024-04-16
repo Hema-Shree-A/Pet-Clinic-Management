@@ -1,0 +1,4 @@
+SELECT TOP 1000 [username]
+      ,[password]
+      ,[confirmpassword]
+  FROM [UR_Pets].[dbo].[admin_login]
